@@ -1,4 +1,4 @@
-// index.ts
+#!/usr/bin/env node
 
 import inquirer from 'inquirer';
 import { withdrawCash, checkBalance } from './atm.js';
